@@ -15,6 +15,9 @@
 <td>Pass</td>
 <td><input type="password" name="password"/></td>
 </tr>
+<td>Click beow the Submit button </td>
+<td><input type="below"</td>
+</tr>
 </table>
 <input type="submit" value="Login"/></form>
 </body>
@@ -29,4 +32,5 @@ String site = "Welcome To My Domain";
 out.print(site);
 %>
 </body>
-</html>
+</html
+>
