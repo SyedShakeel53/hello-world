@@ -15,7 +15,7 @@
 <td>Pass</td>
 <td><input type="password" name="password"/></td>
 </tr>
-<td>Click beow the Submit button.. </td>
+<td>Click beow the Submit button to login </td>
 <td><input type="below"</td>
 </tr>
 </table>
